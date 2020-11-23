@@ -32,7 +32,7 @@ Estas comunidades, especialmente las que llevan una  mayor cantidad de tiempo re
 
 En ese sentido, es indispensable alejarnos de la vision por un lado de buscar alterar estos ecosistemas por no entender su funcion, reduciendolos a suelos mal drenados o areas inundadas, asi como desde la otra orilla buscar dejarlos en un estado pristino, es decir, sin ninguna forma de alteracion. Diversas poblaciones han demostrado como el ser humano mas que un intruso del ecosistema, debe ser entendido como parte de las mismas ya que ha logrado adaptarse al mismo. No obstante, cabe aclarar que el humedal no es solo util en cuanto a los bienes directos que proporciona, sino  tambien desde funcionalidad ecosistemica permite la regulacion de ciclos hidrologicos basicos, absorbe carbono, funciona como purificador y abastecedor de agua y amortigua los pulsos de inundacion ya sea por lluvias como en el caso del fenomeno de la niña o por el derbordamiento de los rios. 
 
-   ![fotohumedal2](https://raw.githubusercontent.com/Juandavid265/Humedales-y-sociedad/main/humedaaaaal.jpg)
+   ![fotohumedal2](https://raw.githubusercontent.com/Juandavid265/Humedalysociedad./main/humedaaaaal.jpg)
 
 ### Aportes ancestrales:
 
@@ -48,7 +48,7 @@ Ahora bien dentro del reconocimiento social la cosmovisión ambiental es parte f
 
 Entendemos el territorio como un complejo y diverso espacio de aprendizaje, de ahí emerge una herramienta sencilla, el caminar el territorio, en clave de  reconocerlo y re-encantarnos con la vida que  somos, el ejercicio de caminar el territorio es un ejercicio milenario y afirmamos que no es obsoleto, porque no hay nada más significante que encontrarnos de frentón   con la diversidad. En suma, para sustentar el aprendizaje de lo diverso establecimos un diálogo transdisciplinar, con un habitante del territorio, que estableció desde su saber, en dirección a generar  apropiación y reconocimiento  de ciertas especies  endémicas y características de estos ecosistemas. una idea madre en construcción, que permitirá aprender desde el territorio, que permitirá ir a lo profundo de la naturaleza que somos, y así comprender y asombrarnos con la diversidad que nos habita, generando por consiguiente el reconocimiento de la alteridad en la compresión de espacios Bio-Sociales,Eco-socio-sistemas.
 
- ![fothumedal3](https://raw.githubusercontent.com/Juandavid265/Humedales-y-sociedad/main/Humedaaaaaaaaaal.jpg)
+ ![fothumedal3](https://raw.githubusercontent.com/Juandavid265/Humedalysociedad./main/Humedaaaaaaaaaal.jpg)
 
 #### Bibliografia: 
 
