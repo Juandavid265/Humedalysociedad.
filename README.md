@@ -8,7 +8,7 @@
 
 Debemos comprender la complejidad del ambiente natural y social (humedal), resultado de este último de la interacción de los factores biológicos, físico-químicos, sociales, económicos, políticos y culturales para que se adquieran los conocimientos, valores, actitudes, destrezas y habilidades que les permitan participar de manera responsable en la abstraccion de nuevos saberes y practicas a traves de estos espacios llenos de vida y enseñañzas, cabe mencionar reconocimiento de diversidad desde los territorios, es menester, comprender la diversidad de lo otro, la importancia de la otredad. Teniendo en cuenta la relación que existe entre las personas y el entorno que no se limita únicamente a considerar a este como el espacio físico donde se da una conducta determinada, sino a comprender dicha relación a partir de que es el espacio y toda la complejidad que lo abarca; ir al complejo entramado de la vida.
 
-![humedallaconejera](https://github.com/Juandavid265/Humedales-y-sociedad/blob/main/humedaaaaal.jpg)
+![humedallaconejera](https://raw.githubusercontent.com/Juandavid265/Humedales-y-sociedad/main/humedaaal.jpg)
 
 ### Problema de investigacion:
  Los humedales son ecosistemas de gran valor natural y cultural, constituidos por un cuerpo de agua permanente o estacional de escasa profundidad, una franja a su alrededor que puede cubrirse por inundaciones periódicas y una franja de terreno no inundable.(Alcaldia de Bogota, 2005). Asi mismo son considerados espacios de creacion cultural, ambiental y estructural, aspectos que se desarrollan en las comunidades circundantes. Son lugares de interacion sobre la fauna y los ciclos hidricos, sin embargo, tambien son espacios de opinion ancestral y construcctores de tejido social. De esta manera nace la pregunta ¿ Que aportes en los ambitos sociales y ancestral podemos extraer de los humedales?
@@ -32,7 +32,7 @@ Estas comunidades, especialmente las que llevan una  mayor cantidad de tiempo re
 
 En ese sentido, es indispensable alejarnos de la vision por un lado de buscar alterar estos ecosistemas por no entender su funcion, reduciendolos a suelos mal drenados o areas inundadas, asi como desde la otra orilla buscar dejarlos en un estado pristino, es decir, sin ninguna forma de alteracion. Diversas poblaciones han demostrado como el ser humano mas que un intruso del ecosistema, debe ser entendido como parte de las mismas ya que ha logrado adaptarse al mismo. No obstante, cabe aclarar que el humedal no es solo util en cuanto a los bienes directos que proporciona, sino  tambien desde funcionalidad ecosistemica permite la regulacion de ciclos hidrologicos basicos, absorbe carbono, funciona como purificador y abastecedor de agua y amortigua los pulsos de inundacion ya sea por lluvias como en el caso del fenomeno de la niña o por el derbordamiento de los rios. 
 
-   ![fotohumedal2](https://github.com/Juandavid265/Humedales-y-sociedad/blob/main/humedaaal.jpg)
+   ![fotohumedal2](https://raw.githubusercontent.com/Juandavid265/Humedales-y-sociedad/main/humedaaaaal.jpg)
 
 ### Aportes ancestrales:
 
@@ -48,7 +48,7 @@ Ahora bien dentro del reconocimiento social la cosmovisión ambiental es parte f
 
 Entendemos el territorio como un complejo y diverso espacio de aprendizaje, de ahí emerge una herramienta sencilla, el caminar el territorio, en clave de  reconocerlo y re-encantarnos con la vida que  somos, el ejercicio de caminar el territorio es un ejercicio milenario y afirmamos que no es obsoleto, porque no hay nada más significante que encontrarnos de frentón   con la diversidad. En suma, para sustentar el aprendizaje de lo diverso establecimos un diálogo transdisciplinar, con un habitante del territorio, que estableció desde su saber, en dirección a generar  apropiación y reconocimiento  de ciertas especies  endémicas y características de estos ecosistemas. una idea madre en construcción, que permitirá aprender desde el territorio, que permitirá ir a lo profundo de la naturaleza que somos, y así comprender y asombrarnos con la diversidad que nos habita, generando por consiguiente el reconocimiento de la alteridad en la compresión de espacios Bio-Sociales,Eco-socio-sistemas.
 
- ![fothumedal3](https://github.com/Juandavid265/Humedales-y-sociedad/blob/main/Humedaaaaaaaaaal.jpg)
+ ![fothumedal3](https://raw.githubusercontent.com/Juandavid265/Humedales-y-sociedad/main/Humedaaaaaaaaaal.jpg)
 
 #### Bibliografia: 
 
